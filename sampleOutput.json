@@ -1,0 +1,130 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Children’s Tylenol in short supply - here’s what parents can do",
+            "description": "There are simple strategies for finding children's pain medication amid the current crisis.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64034568",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C555/production/_128071505_gettyimages-1447230052-1.jpg",
+            "publishedAt": "2022-12-22T11:37:23.4569169Z",
+            "content": "A severe season of cold and flu is leading to empty pharmacy shelves and thinning supplies of antibiotics in the US and other parts of the world. \r\nParents are struggling to find children's versions … [+4053 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Russia-Ukraine war: Top official Rogozin wounded in Ukrainian shelling",
+            "description": "Ex-deputy PM Dmitry Rogozin was hurt in an attack on a hotel in Russian-occupied Donetsk.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64063046",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EF10/production/_128100216_rogoz.jpg",
+            "publishedAt": "2022-12-22T11:37:18.9090632Z",
+            "content": "A Russian former deputy prime minister has been injured after shelling hit a hotel in a Russian-controlled area of eastern Ukraine, reports say. \r\nDmitry Rogozin, who also once led the space agency, … [+1565 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Journey star tells his bandmate to stop performing for Donald Trump",
+            "description": "The rock band's keyboardist played their hit Don't Stop Believin' at Donald Trump's Florida estate.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-64063660",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0B53/production/_128099820_gettyimages-90143729.jpg",
+            "publishedAt": "2022-12-22T11:22:25.1437014Z",
+            "content": "A member of the band Journey has served a bandmate with a cease and desist order after he performed their hit Don't Stop Believin' for Donald Trump.\r\nGuitarist Neal Schon said keyboardist Jonathan Ca… [+2614 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "New Zealand: Jacinda Ardern offensive MP comment transcript sells for NZ$100,000",
+            "description": "The auction follows a heated exchange between the prime minister and a political rival in parliament.",
+            "url": "http://www.bbc.co.uk/news/world-asia-64062741",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/107A1/production/_128098476_jacindaardern.png",
+            "publishedAt": "2022-12-22T09:07:22.1744525Z",
+            "content": "Media caption, Watch: New Zealand PM Jacinda Ardern caught on mic insulting MP in parliament\r\nA signed copy of a transcript of New Zealand Prime Minister Jacinda Ardern insulting an opposition leader… [+2286 chars]"
+        }, {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Wagner Group: Putin's not-so-secret army in Ukraine",
+            "description": "The Wagner group's role is growing but it faces the same challenges as the wider Russian military.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64050719",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11BC9/production/_128094627_84182ea83ae1b1bd28ecd59f2de53ae65cadfe390_0_3729_25041000x671.jpg",
+            "publishedAt": "2022-12-22T06:37:28.5655582Z",
+            "content": "Fighters from Russia's mercenary Wagner Group have ballooned from 1,000 to nearly 20,000 in Ukraine, British government officials say, a sign of Russia's growing reliance on the military contractor i… [+6006 chars]"
+        }, {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Israel's most right-wing government agreed under Benjamin Netanyahu",
+            "description": "Benjamin Netanyahu is backed by an anti-LGBT party and one whose leader was convicted of racism.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-63942616",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1698D/production/_127975529_otzmagettyimages-1244409271.jpg",
+            "publishedAt": "2022-12-22T06:07:20.2673261Z",
+            "content": "A new government seen as the most right-wing in Israel's history has been agreed, sealing Benjamin Netanyahu's return to power.\r\nMr Netanyahu, who won elections in November, is set to serve an histor… [+2878 chars]"
+        }, {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US winter storm to bring coldest Christmas in decades",
+            "description": "The once-in-a-generation weather event may reach pressure equivalent to a Category 3 hurricane.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64061588",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15107/production/_128097268_gettyimages-1449921712.jpg",
+            "publishedAt": "2022-12-22T04:22:19.454885Z",
+            "content": "Media caption, BBC Weather's Sarah Keith-Lucas looks at the treacherous weather heading to the US and Canada\r\nA major winter storm sweeping the US this week may bring the coldest Christmas in four de… [+2828 chars]"
+        }, {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Biden tells Zelensky his country will never stand alone",
+            "description": "On his first overseas trip since the Russian invasion began, President Volodymyr Zelensky thanks the US.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64060437",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15C1/production/_128096550_bidenzel.jpg",
+            "publishedAt": "2022-12-22T02:07:19.2988555Z",
+            "content": "Media caption, WATCH: Biden praises Zelensky and Ukrainian people\r\nPresident Joe Biden has told President Volodymyr Zelensky the US will stick by Ukraine \"for as long as it takes\" in its war with Rus… [+3836 chars]"
+        }, {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "FTX boss Sam Bankman-Fried flying to US to face fraud charges",
+            "description": "The former cryptocurrency exchange boss is aboard a plane, being extradited from the Bahamas.",
+            "url": "http://www.bbc.co.uk/news/business-64036615",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E7C9/production/_128073395_sambankmanfried.png",
+            "publishedAt": "2022-12-22T01:37:24.9395935Z",
+            "content": "Sam Bankman-Fried, former boss of failed cryptocurrency exchange FTX, is aboard a plane flying from the Bahamas to the US where he faces fraud charges.\r\nThe 30-year-old is being extradited on suspici… [+2112 chars]"
+        }, {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: China's hospitals seem to be filling up - WHO",
+            "description": "China's figures say no-one died of Covid on Wednesday - but there is scepticism about the data.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-64056549",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6927/production/_128091962_capture.png",
+            "publishedAt": "2022-12-21T22:52:29.1114038Z",
+            "content": "Hospitals in China appear to be filling up amid concerns about a fresh Covid-19 wave hitting the country, the World Health Organization (WHO) says.\r\nDr Michael Ryan says intensive care units (ICU) ar… [+2103 chars]"
+        }
+    ]
+}
