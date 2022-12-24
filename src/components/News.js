@@ -38,12 +38,16 @@ export class News extends Component {
   async updateNews() {
     // fetch data from the url and convert it into json and the update our articles variable which is initialized in constructor setState 
     // await is used to wait for the data to be fetched and then only the next line will be executed
+    this.props.setProgress(10);
     const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
     this.setState({ loading: true });
     let data = await fetch(url);
+    this.props.setProgress(40);
     let parsedData = await data.json();
     // console.log(parsedData);
+    this.props.setProgress(75);
     this.setState({ articles: parsedData.articles, totalResults: parsedData.totalResults, loading: false });
+    this.props.setProgress(100);
   }
 
   async componentDidMount() {
